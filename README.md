@@ -23,7 +23,7 @@ Following the meticulous design of the schematic, the next phase involves transp
 
 The PIR sensors are connected to the controller's input pins. These sensors are mounted on the poles of the stairs beforehand and are used to detect motion in both ascending and descending directions.
 
-<img src="images/image5.jpg" alt="pirsensor" style="width: 100%; height: auto"/>
+<img src="images/image5.JPG" alt="pirsensor" style="width: 100%; height: auto"/>
 
 ## Addressing False Triggers:
 
@@ -31,13 +31,13 @@ During the integration phase, an important realization surfaced regarding the in
 
 ## More Images of the setup.
 
-<img src="images/image2.jpg" alt="schematic" style="width: 100%; height: auto"/>
+<img src="images/image2.JPG" alt="image2" style="width: 100%; height: auto"/>
 
-<img src="images/image3.jpg" alt="schematic" style="width: 100%; height: auto"/>
+<img src="images/image3.JPG" alt="image3" style="width: 100%; height: auto"/>
 
-<img src="images/image4.jpg" alt="schematic" style="width: 100%; height: auto"/>
+<img src="images/image4.JPG" alt="image4" style="width: 100%; height: auto"/>
 
 ## Code
 
 The code for the controller is available on GitHub.
-[\stairlight_controller_code](stairlight_controller_code\stairlight_controller_code.ino)
+[\stairlight_controller_code](https://github.com/alphaseneca/stairlight_controller/tree/master/stairlight_controller_code)
